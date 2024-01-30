@@ -1,0 +1,12 @@
+@media (min-width: 992px) {
+	.item {
+		&__wrapper {
+			width: 450px;
+			height: 350px;
+		}
+
+		&__btn {
+			font-size: 3rem;
+		}
+	}
+}

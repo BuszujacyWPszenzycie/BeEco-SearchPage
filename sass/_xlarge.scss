@@ -1,0 +1,15 @@
+@media (min-width: 1200px) {
+	.item {
+		&__wrapper {
+			width: 550px;
+			height: 400px;
+		}
+	}
+
+	.search {
+		&__bar {
+			margin-bottom: 6rem;
+			height: 80px;
+		}
+	}
+}
